@@ -7,7 +7,7 @@ Please read [CONTRIBUTING.md](https://github.com/HETIC-MT-P2021/framework_projec
 
 ## Authors
 
-* [**MT5 P2021**](https://github.com/HETIC-MT-P2021/) - *Organization*
+* [**MT5 P2021**](https://github.com/orgs/HETIC-MT-P2021/people) - *Organization*
 
 See also the list of [contributors](https://github.com/HETIC-MT-P2021/framework_project/graphs/contributors) who participated in this project.
 
