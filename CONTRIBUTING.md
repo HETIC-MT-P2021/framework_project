@@ -50,3 +50,11 @@ Build: Update Travis to only test Node 0.10 (refs #734)
 Fix: Semi rule incorrectly flagging extra semicolon (fixes #840)
 Upgrade: Esprima to 1.2, switch to using comment attachment (fixes #730)
 ```
+
+## Branch naming convention
+
+The branch should have a name that reflects it's purpose.
+
+The convention is to prefix the branch name with feature-. All the words must be separated by a -.
+
+Branch name example : feature-user-authentication
